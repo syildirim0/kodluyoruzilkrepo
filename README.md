@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-#Kodluyoruz Ilk Repo
+# Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası , bir adet de index.html dosyas barındırıyor.
 ![RESİM](https://i.pinimg.com/originals/bb/a8/85/bba885e3472d6e32a5c410f93ff5f3e1.jpg)
 
